@@ -1,0 +1,7 @@
+Instrucciones para usar el conversor echo en C
+- Puedes inicializarlo en una consola en Línea, VSCode
+- Ingresa la cantidad que deseas convertir (Dolar, Quetzal, Euro)
+- Tienes 3 opciones la cual eliges cual es la moneda que ingresas
+- Despues indicas la moneda a la que quieres el cambio.
+
+Nota: Utilice una matriz de 3x3 para realizar la conversión de una moneda a otra, por el momento solo se puede utilizar con 3 tipos de monedas, Quetzal, Dolar, Euro
