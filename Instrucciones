@@ -5,3 +5,4 @@ Instrucciones para usar el conversor echo en C
 - Despues indicas la moneda a la que quieres el cambio.
 
 Nota: Utilice una matriz de 3x3 para realizar la conversión de una moneda a otra, por el momento solo se puede utilizar con 3 tipos de monedas, Quetzal, Dolar, Euro
+Nota: utilizar el archivo con terminación .c (conversor.c)
